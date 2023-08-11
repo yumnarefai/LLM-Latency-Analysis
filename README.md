@@ -9,5 +9,6 @@ Three datasets were created to record the latency time when testing three instru
 
 How to run this repo:
 
-Install the relevant libraries (e.g. matplotlib, numpy, pandas, seaborn)
-Choose any of the given py files and run on VSCode.
+1. Install the relevant libraries (e.g. matplotlib, numpy, pandas, seaborn)
+2. Choose any of the given py files and run on VSCode.
+
