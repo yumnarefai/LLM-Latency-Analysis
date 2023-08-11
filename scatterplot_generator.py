@@ -13,7 +13,7 @@ for model in unique_models:
     plt.scatter(model_data['x'], model_data['y'], label=model)
 
 # Add regression lines
-# sns.lmplot(x='x', y='y', data=data, hue='model', legend=False)
+sns.lmplot(x='x', y='y', data=data, hue='model', legend=False)
 
 plt.xlabel('Prompt Size (B)')
 plt.ylabel('Time (s)')
